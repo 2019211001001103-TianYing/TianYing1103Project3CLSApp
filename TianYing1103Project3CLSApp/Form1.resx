@@ -124,8 +124,8 @@
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
-        ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAAAw
-        CAAAAk1TRnQBSQFMAgEBAgEAAQgBAAEIAQABEAEAARABAAT/AQkBAAj/AUIBTQE2AQQGAAE2AQQCAAEo
+        ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAAAs
+        CAAAAk1TRnQBSQFMAgEBAgEAASABAAEgAQABEAEAARABAAT/AQkBAAj/AUIBTQE2AQQGAAE2AQQCAAEo
         AwABQAMAARADAAEBAQABCAYAAQQYAAGAAgABgAMAAoABAAGAAwABgAEAAYABAAKAAgADwAEAAcAB3AHA
         AQAB8AHKAaYBAAEzBQABMwEAATMBAAEzAQACMwIAAxYBAAMcAQADIgEAAykBAANVAQADTQEAA0IBAAM5
         AQABgAF8Af8BAAJQAf8BAAGTAQAB1gEAAf8B7AHMAQABxgHWAe8BAAHWAucBAAGQAakBrQIAAf8BMwMA
@@ -153,17 +153,28 @@
         AcwBAAH/AZkB/wEAAf8BzAIAAf8BzAEzAQAB/wHMAWYBAAH/AcwBmQEAAf8CzAEAAf8BzAH/AQAC/wEz
         AQABzAH/AWYBAAL/AZkBAAL/AcwBAAJmAf8BAAFmAf8BZgEAAWYC/wEAAf8CZgEAAf8BZgH/AQAC/wFm
         AQABIQEAAaUBAANfAQADdwEAA4YBAAOWAQADywEAA7IBAAPXAQAD3QEAA+MBAAPqAQAD8QEAA/gBAAHw
-        AfsB/wEAAaQCoAEAA4ADAAH/AgAB/wMAAv8BAAH/AwAB/wEAAf8BAAL/AgAD/wEAAf8B6wrqAfgBbQP/
+        AfsB/wEAAaQCoAEAA4ADAAH/AgAB/wMAAv8BAAH/AwAB/wEAAf8BAAL/AgAD/wEAAf8B6wrqAewBbQP/
         AW0N6gHyIAAB/wHrCeoBkwFvAeoD/wESDeoB7CAAAf8J6gHsAkwBdAP/ARIO6iAAAf8BEgFtB+oBbwNM
-        Ab0C/wESAW0N6iAAAf8BEgbqAW0B7QFMAW8BGgJMAfUB/wESAesN6iAAAf8BEgjqAW8BHAHqAW8BTAFv
-        Af8BEgHrDeogAAH/ARIBbQvqAkwB/wESDuogAAH/ARIBbQvqAe8BTAH/CBIB6wbqIAAB/wESAfgL6gFt
-        AfEB/wUSAesCGgG9BRIB/yAAAf8BEgHqBesCbQTqAW0C/wUSAZMDTAUSAf8gAAH/BxIC6gNtAuoC/wUS
-        AZMDTAb/IAAB/w0SB/8B8gG9AkwBbwb/IAAB/wwSAW0G/wH1AZMETAFvBf8gAAH/BhIP/wGTAkwBbwb/
-        IAAB/wYSEP8BmQFvB/8gACD/IAABQgFNAT4HAAE+AwABKAMAAUADAAEQAwABAQEAAQEFAAGAFwAD/4EA
-        Cw==
+        Ab0C/wESAW0N6iAAAf8BEgbqAW0B7QFMAW8BGgJMAv8BEgHrDeogAAH/ARII6gFvARwB6gFvAUwBbwH/
+        ARIB6w3qIAAB/wESAW0L6gJMAf8BEg7qIAAB/wESAW0L6gHvAUwB/wgSAesG6iAAAf8BEgHsC+oBbQHx
+        Af8FEgHrAhoBvQUSAf8gAAH/ARIB6gXrAm0E6gFtAv8FEgGTA0wFEgH/IAAB/wcSAuoDbQLqAv8FEgGT
+        A0wG/yAAAf8NEgf/AfIBvQJMAW8G/yAAAf8MEgFtB/8BkwRMAW8F/yAAAf8GEg//AZMCTAFvBv8gAAH/
+        BhIQ/wGZAW8H/yAAIP8gAAFCAU0BPgcAAT4DAAEoAwABQAMAARADAAEBAQABAQUAAYAXAAP/gQAL
 </value>
   </data>
+  <metadata name="errMessage.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>132, 17</value>
+  </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>45</value>
+  </metadata>
+  <metadata name="watchDir.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>252, 17</value>
+  </metadata>
+  <metadata name="mnuNotify.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>356, 17</value>
+  </metadata>
+  <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>471, 17</value>
   </metadata>
 </root>
